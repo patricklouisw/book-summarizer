@@ -1,0 +1,993 @@
+(® Check for updates
+
+Article
+new media & society
+Infrastructure studies meet 7 The Mure) 2018
+. ° Reprints and permissions:
+platform studies in the age sagepubcouk/jouralsPermissions:nav
+DOI: 10.1177/1461444816661553
+of Google and Facebook journals sagepub.com/home/nms
+@SAGE
+
+Jean-Christophe Plantin
+
+The London School of Economics and Political Science, UK
+
+Carl Lagoze, Paul N Edwards
+
+and Christian Sandvig
+University of Michigan, USA
+
+Abstract
+
+Two theoretical approaches have recently emerged to characterize new digital objects
+of study in the media landscape: infrastructure studies and platform studies. Despite their
+separate origins and different features, we demonstrate in this article how the cross-
+articulation of these two perspectives improves our understanding of current digital
+media. We use case studies of the Open Web, Facebook, and Google to demonstrate
+that infrastructure studies provides a valuable approach to the evolution of shared,
+widely accessible systems and services of the type often provided or regulated by
+governments in the public interest. On the other hand, platform studies captures how
+communication and expression are both enabled and constrained by new digital systems
+and new media. In these environments, platform-based services acquire characteristics
+of infrastructure, while both new and existing infrastructures are built or reorganized
+on the logic of platforms. We conclude by underlining the potential of this combined
+framework for future case studies.
+
+Keywords
+API, applications, Facebook, Google, infrastructures, networks, Open Web, platforms,
+programmability, STS
+
+Corresponding author:
+
+Jean-Christophe Plantin, Department of Media and Communications, The London School of Economics and
+Political Science, Houghton Street, London WC2A 2AE, UK.
+
+Email: j.plantin | @lse.ac.uk
+294 new media & society 20(1)
+
+Until recently, scholars of media have been satisfied with a short list of objects of study.
+For researchers interested in conduit and not content, each medium was a technology and
+also a surrounding “environment” (Meyrowitz, 1997: 60) of objects, audiences, produc-
+ers, distributors, laws, communities, and companies. Every medium proved capacious
+and lasting as a category and created its own tradition of inquiry: radio studies, film stud-
+ies, telecommunications, television studies, and computer-mediated communication.
+The advent of digital technologies and the Internet challenged this epistemology.
+Increasingly subdivided media objects seemed to require an increasingly subdivided
+media theory. For example, video games were initially categorized as “interactive
+television,” but when the characteristics of video games diverged from those of televi-
+sion, this term became ungainly, and specific research emerged to target the new media
+object. Similarly, Tinder, electronic mail (email), and numerically controlled machine
+tools all involve “computing,” but it is not obvious that they should all be analyzed in the
+same way. Scholars turned to new concepts to acknowledge the heterogeneity of media.
+
+Two theoretical approaches have emerged as potential candidates to contain and charac-
+terize the new digital objects of study in the media landscape: infrastructure studies, emerg-
+ing from science and technology studies and information science, and platform studies,
+centered in media studies. The former has focused on analyzing essential, widely shared
+sociotechnical systems. Using case studies ranging from electric power grids (Hughes,
+1983) to communication networks (Graham and Marvin, 2001) to scientific “cyberinfra-
+structures” (Edwards et al., 2007), this school of thought has highlighted key features of
+infrastructure such as ubiquity, reliability, invisibility, gateways, and breakdown. By con-
+trast, platform studies explores how computing devices (such as Intel-chip-based PCs) and
+software environments (such as gaming systems) affect the characteristics of application
+software built upon them. In media studies, the concept of “platform” has been extended
+from game design (Montfort and Bogost, 2009) to content-sharing websites (Gillespie,
+2010; Helmond, 2015) and social media applications (Langlois and Elmer, 2013; van
+Dijck, 2013). Key features discussed in platform studies include programmability,
+affordances and constraints, connection of heterogeneous actors, and accessibility of data
+and logic through application programming interfaces (APIs).
+
+Both infrastructure and platform refer to structures that underlie or support something
+more salient. Yet their different conceptual frameworks and separate origins obscure the
+relationship between them. Are the infrastructure and platform perspectives complemen-
+tary, opposed, or completely unrelated? Or do they overlap, revealing different aspects or
+elements of the same set of objects? Do they describe different stages on a timeline in
+which some platforms evolve into infrastructures, or do they oscillate over time in some
+pendular cycle?
+
+Consider Google, which we analyze in greater depth below. Google exemplifies fea-
+tures found in both literatures. Apps such as Google Maps can be considered program-
+mable platforms on which users and developers can build new digital objects. At the
+same time, Google’s web search has become so ubiquitous and deeply embedded that it
+could be seen as an infrastructure: robust, widely shared, widely accessible, and essen-
+tial. Any breakdown in Google’s services would substantially disrupt daily life and work.
+What is Google, then: a platform? An infrastructure? Is it sequentially or simultaneously
+both?
+Plantin et al. 295
+
+Here, we demonstrate that cross-articulating these two perspectives can improve our
+understanding of digital media. After reviewing both literatures, we show that bounda-
+ries between the two perspectives have become increasingly blurry. Digital technologies
+have made possible a “platformization” of infrastructure and an “infrastructuralization”
+of platforms. Articulating the two perspectives highlights the tensions arising when
+media environments increasingly essential to our daily lives (infrastructures) are domi-
+nated by corporate entities (platforms). Next using case studies of Facebook and Google,
+we demonstrate that infrastructure studies provides a valuable comparative approach to
+widely accessible services of broad public value, a perspective not provided by platform
+studies. At the same time, platform studies, with its focus on rapidly evolving digital
+artifacts, shows how expression, communication, and knowledge are constrained within
+profit-driven corporate ecosystems. We conclude by underlining the potential of this
+combined framework for future research.
+
+Digital environments in infrastructure and platform studies
+
+Infrastructure studies: from systems to networks to webs
+
+Infrastructure studies developed along two main intellectual lines. The first sought a
+historical perspective on large technical systems (LTS). Historians and sociologists used
+that perspective to analyze systems ranging from electric power grids to telephone net-
+works to air traffic control (Biker et al., 1987; Hughes, 1983; Mayntz and Hughes,
+1988). In this perspective, infrastructures often originate as sociotechnical systems that
+are centrally designed and controlled, typically in the invention and development phases
+of new technologies. In these phases, they remain the province of their developer(s),
+whether a single individual, a team, or an enterprise. Once these systems begin to travel
+in physical and social space, they also begin to change. Both users and other developers
+may modify or extend them while competing technologies and enterprises arise; consider
+the many similar, but incompatible devices and standards developed during the early
+days of railroads, electric power, or digital computers. Consequently, when a need arises
+to link heterogeneous systems into networks, devices, and/or social apparatuses known
+as gateways—for example, AC/DC power converters, software/hardware combinations
+such as Ethernet, and legal arrangements such as international trade law (Egyedi, 1996;
+Egyedi and Spirco, 2011)—must be created. The network phase signals not only the
+involvement of many more actors but also growing social commitments manifested in,
+for example, explicit standards, user habituation, and organizational routines. Some
+infrastructures, such as electric utilities or postal services, acquire the character of public
+goods, with governments or highly regulated monopoly firms taking responsibility for
+development, operations, and/or maintenance.
+
+In later phases of development, webs or internetworks (networks of heterogeneous
+networks) may form. For example, trucking, rail, and shipping networks developed inde-
+pendently, but were later integrated into a global internetwork by means of the
+International Organization for Standardization (ISO) standard shipping container, a clas-
+sic example of a gateway (Busch, 2011; Egyedi, 2001; Klose, 2015). The Internet itself
+is a network of heterogeneous computer networks, made possible by the Transmission
+296 new media & society 20(1)
+
+Control Protocol/Internet Protocol (TCP/IP). Because they integrate many semi-inde-
+pendent systems, internetworks can only rarely be designed, controlled, or standardized
+from above (Edwards et al., 2007); instead, fully developed infrastructures are complex
+ecologies whose components must continually adapt to each other’s ongoing change. In
+a final, devolutionary phase, infrastructures can splinter into more specialized elements
+or die altogether (Graham and Marvin, 2001; van der Vleuten, 2004).
+
+A second intellectual stream in infrastructure studies, championed by Star and
+Bowker, elaborated the phenomenology and sociology of infrastructures (Edwards et al.,
+2007, 2009; Graham and Marvin, 2001; Ribes and Finholt, 2009; Star and Ruhleder,
+1996). They articulated, for example, interacting dependencies on infrastructures, which
+create potentials for social chaos during episodes of breakdown, such as urban blackouts
+or major Internet outages. Dependency stems from the qualities of ubiquity, reliability,
+and especially durability; major infrastructures such as railroads, telephone networks,
+Linnaean taxonomy, and the Internet endure over many decades, even centuries. As a
+result, infrastructures are “learned as part of membership” in communities, nations, and
+lifeworlds (Bowker and Star, 1999; Edwards, 2002). This stream of infrastructure studies
+emphasizes the critical role of infrastructure’s human elements, such as work practices,
+individual habits, and organizational culture, as well as the ways an infrastructure can
+structurally exclude some people (e.g. deaf, blind, or wheelchair-bound individuals)
+from purportedly “universal” services (Lee et al., 2006; Ribes and Bowker, 2008; Ribes
+and Finholt, 2009).
+
+Platform studies: from programmability to application ecologies
+
+The study of platforms is a more recent and more cacophonous endeavor. The com-
+puter industry adopted the term “platform” in the mid-1990s, when Microsoft described
+Windows as a platform and Netscape defined a “cross-platform” strategy for its web
+browser. Management and organization studies researchers identified platforms as
+critically important for both digital and non-digital industries. For these scholars and
+the business cultures they examined, platforms are architectures comprising three key
+elements: core components with low variability, complementary components with
+high variability, and interfaces for modularity between core and complementary com-
+ponents (Baldwin and Woodward, 2008). Such architecture can lower the cost of inno-
+vation because it avoids building an entirely new system for each new product (Baldwin
+and Woodward, 2008: 8-9). For management and organization studies, then, platforms
+constitute a powerful model for innovative products, with direct applications to digital
+media.
+
+Media scholars’ interest in digital platforms coincides with the rise of “Web 2.0”
+(O’Reilly, 2005) in the mid-2000s. Researchers studying the Web extended the computer
+industry’s notion of platform to web-based applications whose technical architecture
+emphasizes the provision of connection, programmability, and data exchange with appli-
+cations developed by others. Products of this interoperability came to be known as
+“mashups,” in which a new application or service is created by aggregating two or more
+data sources. Scholars soon began to interrogate the political and cultural implications of
+these participatory forms of production and remix of content. Precursors to platform
+
+Plantin et al. 297
+
+studies include Benkler’s (2006) investigation of peer production in the “networked pub-
+lic sphere” and Jenkins’ (2006) study of how digital remixing practices alter the tradi-
+tional boundary between producers and consumers of cultural content.
+
+Platform studies scholars similarly focus on participatory media practices, but
+acknowledge more directly the dual nature of commercial platforms: their affordances
+support innovation and creativity—supplying a base for video games or new media
+forms—yet simultaneously constrain participation and channel it into modes that profit
+the platform’s creators. According to Bogost and Montfort, platforms’ essential charac-
+teristic is the programmability which permits users to go beyond the original designers’
+project. A sound bite states, “If you can program it, it’s a platform. If you can’t, it’s not”
+(Andreessen, 2007, quoted in Bogost and Montfort, 2009). This usage of “platform” is
+clearly compatible with the management and organization studies usage mentioned
+above; Montfort and Bogost essentially describe the 1977 Atari Video Computer System
+(VCS) as a core component whose interchangeable game cartridges act as complemen-
+tary components—a groundbreaking rupture with that era’s hulking wooden-cabinet
+arcade machines, each of which offered just one game.
+
+In some of this scholarship, the analysis of platform architecture and design is com-
+plemented by a focus on users’ agency as expressed in the economic and legal character-
+istics of platforms. Here, cultural studies and political economy meet, exploring
+individual expressions while interrogating the power relations typical of commercial
+platforms. José van Dijck, for example, defines platforms as a “set of relations that con-
+stantly needs to be performed,” in part due to continual friction between, on one side,
+users’ goals of expression and, on the other side, platforms’ profit-seeking aims and the
+legal surround that defines legitimate use (van Dijck, 2013: 26). Similarly, Langlois and
+Elmer critically assess “some of the new forms of power yielded by corporate social
+media platforms” such as Facebook (Langlois and Elmer, 2013: 14). Economic interests,
+they write, affect the design of social media interfaces (e.g. integrated systems for dis-
+playing online ads targeted to individual users). More fundamentally, social media plat-
+forms bind pre-defined communicative acts to an economic logic. For example, “like,”
+“share,” and “retweet” not only provide a means for users to express themselves but also
+facilitate ranking, product recommendations, and data analytics. Analyzing corporate
+social media platforms therefore requires researchers to investigate these “double articu-
+lations” (Langlois and Elmer, 2013). For example, corporations’ goal of gathering users’
+personal data determines the technical properties of platforms, which in turn shapes how
+they organize communication among users.
+
+Gillespie similarly analyzes the tensions between agency and architecture in plat-
+forms by studying how the legal constructions and technical affordances of digital inter-
+mediaries shape public discourse. Using YouTube as a case study, he highlights how
+social media companies deploy the term “platform” to position themselves as neutral
+facilitators and to downplay their own agency: “platform” is “specific enough to mean
+something, and vague enough to work across multiple venues for multiple audiences”
+(Gillespie, 2010), such as developers, users, and advertisers. Recent debates about the
+legal responsibilities of Uber and AirBnB illustrate this strategy: the firms present
+themselves as platforms, “merely” connecting car or property owners with potential
+customers.
+298 new media & society 20(1)
+
+To summarize, platform studies scholars explore how modularity and power are nego-
+tiated between a core unit with low variability and heterogeneous components of high
+variability. Their perspective is cultural, economic, and critical, forming a continuum
+ranging from cultural studies to political economy. Collectively, they highlight how plat-
+forms’ affordances simultaneously allow and constrain expression, as well as how tech-
+nical, social, and economic concerns determine platforms’ structure, function, and use.
+
+Beyond the specific frame of platform studies, the dialogue between infrastructure
+studies and media studies writ large is already considerable. The “new materialists”
+(Sandvig, 2013) comprise scholars focusing on how media infrastructures interact with
+media cultures. Scholarship on cinema networks in urban Nigeria (Larkin, 2008), under-
+sea Internet cable networks (Starosielski, 2015), or the cultural imaginaries of data cent-
+ers (Hu, 2015) illustrate this rising body of scholarship on “media infrastructures” (Parks
+and Starosielski, 2015). We describe next how we take part in this cross-disciplinary
+articulation.
+
+Platformized infrastructures and infrastructuralized
+platforms
+
+The brief overview offered above cannot possibly do justice to the richness of these two
+approaches. Instead, we have deliberately emphasized the historicist component of infra-
+structure studies and the critical focus of platform studies. In this section, we combine
+these two frameworks, putting the rise of platforms into historical context while high-
+lighting their consequences for communication, expression, and knowledge. We argue
+that the rise of digital technologies, in a neoliberal, political, and economic climate, has
+simultaneously facilitated a “platformization” of infrastructures and an “infrastructurali-
+zation” of platforms.
+
+A historical and critical perspective on the rise of platforms
+
+Moving towards a combined framework, we first need to describe the difference between
+platform builders and the “system builders” central to Thomas Hughes and the STS
+theory of infrastructure we described earlier. One might regard the former as an instance
+of the latter, except for one key difference: unlike system builders, platform builders do
+not seek to internalize their environments through vertical integration. Instead, their plat-
+forms are designed to be extended and elaborated from outside, by other actors, provided
+that those actors follow certain rules. Platforms such as Apple’s iOS (iPhone operating
+system) or Google’s Android achieve their success precisely by attracting many inde-
+pendent actors to contribute to their software ecologies, instead of attempting to build
+and market stand-alone products. Users benefit from the platform’s standardized inter-
+face, while independent developers benefit from the platform’s code base, large audi-
+ence, and marketing power. Meanwhile, the platform builder reaps profits due to
+increased buy-in (or lock-in) by both sides. The costs of this approach, as platform stud-
+ies has shown, come in the form of constraints, constant revisions forced by platform
+updates, and lock-in to the platform’s conception of users, functionality, and design val-
+ues. Finally, because achieving lock-in is among platform builders’ principal goals, most
+Plantin et al.
+
+299
+
+Table |. Table summarizing infrastructure and platform properties.
+
+Infrastructure
+
+Platform
+
+Architecture
+
+Relation between
+components
+Market structure
+
+Focal interest
+Standardization
+Temporality
+Scale
+
+Funding
+
+Agency of users
+
+Heterogeneous systems
+
+and networks connected via
+sociotechnical gateways
+Interoperability through standards
+
+Administratively regulated in
+public interest; sometimes private
+or public monopoly
+
+Public value; essential services
+Negotiated or de facto
+
+Long-term sustainability, reliability
+
+Large to very large; ubiquitous,
+widely accessible
+
+Government, subscription, lifeline
+services for indigent customers,
+pay-per-use (e.g. tickets)
+
+“Opt out,” for example, going off
+the grid
+
+Programmable, stable core
+system; modular, variable
+complementary components
+Programmability within
+affordances, APIs
+
+Private, competitive, sometimes
+regulated via antitrust and
+intellectual property
+
+Private profit, user benefits
+Unilaterally imposed by
+platforms
+
+Frequent updating for
+competitive environment
+
+Small to very large; may grow to
+become ubiquitous
+
+Platform purchase (device),
+subscription (online), pay-per-use
+(e.g. TV shows), advertising
+“Opt in,” for example, choosing
+one platform instead of another;
+
+creating mashups
+
+API: application programming interface.
+
+actively discourage the construction of gateways—to borrow an infrastructure studies
+concept—which might permit interoperability with competitors. This strategy forces
+independent developers either to commit to just one platform or to build and maintain
+multiple versions of the same product.
+
+As characterized in the literatures reviewed above, platforms and infrastructures have
+some similarities, but they differ in scale and scope. Evolving from systems to networks
+to webs, infrastructures integrate many heterogeneous components by means of socio-
+technical gateways. As essential elements of everyday life and work, many infrastruc-
+tures are widely accessible, some to the extent of being funded, managed, and/or
+regulated by governments. In general, platforms are built with smaller scales and scopes
+in view. Platform builders seek to create modular frameworks. The platform remains a
+centrally controlled and designed system (often under corporate control), but benefits
+from the innovations of a large penumbra of third-party developers.
+
+Table | presents these concepts as mostly distinct, but it also shows respects in which
+they overlap. As we will now discuss, these boundaries have become increasingly blurry.
+
+Platforms rise when infrastructures splinter
+
+Perhaps unsurprisingly, both computer industry and media studies’ ideas about platforms
+originated in a period when the phenomenon Graham and Marvin (2001) have called the
+300 new media & society 20(1)
+
+“modern infrastructural ideal” was disappearing. Their felicitous phrase calls out the
+tacit, imperfectly realized, yet widespread ideal, originating around the middle of the
+19th century, of cities as coherent units responsible for providing certain services to all
+citizens, for example, roads, sewers, emergency services, and public transportation.
+Many of these infrastructures originated as private enterprises, later acquiring the status
+of publicly regulated monopolies. Around the same time, national governments also
+became involved in the provision and/or regulation of railroads, major highways, post/
+telegraph/telephone, and other infrastructures—including the early Internet. Starting in
+the late 1970s, however, the modern infrastructural ideal began to collapse as neoliberal
+leaders sought to lower costs through market competition. Many infrastructures under-
+went deregulation and/or privatization during the Thatcher—Reagan era; as a result, they
+often “splintered” into numerous enterprises. The government’s role was no longer to run
+or oversee monopoly providers of public goods, but rather the reverse: to break those
+monopolies apart so as to increase competition while renouncing many of the responsi-
+bilities implied by the modern infrastructural ideal. This strategy often produced effi-
+ciencies, but it also resulted in tiered structures of vestigial, poorly functioning services
+for low-income citizens alongside premium services for the wealthy.
+
+A striking view of the modern infrastructural ideal’s decline, and its replacement by
+fragmented, privatized, yet interoperable systems and services, can be seen in the history
+of networked computing. In the 1960s, the rising sense that computer power might
+become a significant resource for large numbers of people led numerous analysts to the
+concept of “computer utility.” Computer utility would build and operate giant computers
+whose central processing unit (CPU) time could be shared, in the same way that electric
+utility customers share huge power plants. The resulting economies of scale, they argued,
+would keep prices low and ensure sufficient computer power for almost any task, pro-
+vided on demand. This analogy made perfect sense in an era when a single high-end
+computer could cost US$100,000 or even much more. And in fact, a number of compa-
+nies pursued this model in the late 1960s. A few, such as CompuServe, became very
+successful. Observers anticipated that such services might eventually become public,
+regulated monopoly utilities—in other words, an infrastructure (Campbell-Kelly et al.,
+2014; Edwards, 2010; Greenberger, 1964).
+
+And indeed, the first 20 years of Internet history, from the late 1960s through the late
+1980s, were marked by all the features of the modern infrastructural ideal: heavy govern-
+ment investment, sponsored first by the US Defense Department’s Advanced Research
+Projects Agency and then by the US National Science Foundation (NSF) in the public
+interest. In the 1980s, the NSF forced the broad provision of Internet connections in
+order to permit scientists at less well-resourced institutions to share time on the costly
+supercomputers it purchased for a few major research centers—exactly the “computer
+utility” model. The French Minitel system, introduced in 1980 and reaching 6.5 million
+French citizens by 1990 (far more than any commercial networking service), represents
+perhaps the most complete realization of the computer utility model as a public good
+(Cats-Baril and Jelassi, 1994).
+
+Beginning in the late 1980s, that model was abandoned, and along with it, any notion
+of public provision (although the government did retain some regulatory authority).
+Many factors (among them the rapid, largely unanticipated rise of personal computing)
+Plantin et al. 301
+
+produced this change, yet the retreat from the modern infrastructural ideal and the rise of
+neoliberalism certainly played major roles. The crucial final steps in this splintering pro-
+cess were privatization of Internet backbone lines (from 1987) and deregulation (removal
+of restrictions on commercial use, from 1992).
+
+Currently reaching nearly 2 billion people, the Internet—which includes the World Wide
+Web and cloud computing—clearly exhibits all the features of an infrastructure. It is relia-
+ble, transparent, widely shared, and visible to users mainly when it breaks down. Its many
+uses are learned as part of membership in contemporary society. It provides essential ser-
+vices, so much a part of commerce, government, work, and everyday life that whole socie-
+ties would be crippled if some catastrophe caused it to collapse. Most governments regulate
+Internet provision to some extent; some, such as Estonia, even offer universal Internet con-
+nectivity as a public utility. Yet where service is splintered among many for-profit providers,
+as in the United States, many low-income citizens remain excluded, and their exclusion is
+both deeply consequential for them and invisible to the dominant culture.
+
+The history of networked computing resources can thus be seen as the transformation
+of a traditional monopoly infrastructure model into the deregulated, privatized, and
+splintered—we might say “platformized”—infrastructure model so prevalent in many
+sectors today (Abbate, 1999; Edwards, 1998; Kahin and Abbate, 1995; Kahin and Keller,
+1997). Computing and computer networks arguably contributed heavily to the splinter-
+ing of other infrastructures as well, by permitting fine-grained, swifter, and more sophis-
+ticated management of large enterprises (Castells, 2000). For example, older, more
+monolithic media infrastructures such as cable TV companies are now waging battles
+against emergent Internet-based “set-top box” platforms such as Apple TV, Amazon Fire,
+or Google Play, which permit “‘a la carte” media provision.
+
+To summarize, the rise of ubiquitous, networked computing and changing political
+sentiment have created an environment in which platforms can achieve enormous scales,
+co-exist with infrastructures, and in some cases compete with or even supplant them.
+Platforms themselves remain a centrally designed and controlled system (Edwards et al.,
+2007), but the platform ecology looks more like a network or web, linking independently
+developed and maintained systems (e.g. apps). In the following section, we analyze
+Facebook and Google as cases of this combined infrastructuralization of platforms and
+the platformization of infrastructures.
+
+Reaching out and locking in: Facebook, Google, and the
+Open Web
+
+Infrastructure studies and platform studies each provide useful analytical tools for under-
+standing the fraught relationship that currently exists between the public-oriented Open
+Web and locked-in “walled gardens.” We contrast Facebook and Google with the Open
+Web to demonstrate the contemporary convergence of platforms and infrastructures.
+
+The Open Web, Facebook, and the API
+
+What we call here the “Open Web” refers to the original conception of World Wide Web
+architecture, which was based on four technical components: Hypertext Transfer Protocol
+302 new media & society 20(1)
+
+(HTTP), uniform resource identifiers (URIs, sometimes called “locators” or uniform
+resource locators [URLs]), Hypertext Markup Language (HTML), and hyperlinks
+(encoded in HTML) (Berners-Lee and Fischetti, 1999; Jacobs and Walsh, 2004). All of
+these components exist as publicly accessible, communally regulated standards (Fielding
+et al., 1999). These Open Web protocols can be leveraged to do three kinds of things:
+
+e Publish content using open standards and refer to it using open identifiers (URIs);
+
+e Write code that facilitates access to that content by a variety of “agents” (both
+humans and software robots/crawlers);
+
+e Reuse, re-aggregate, and repurpose content to constitute new information
+resources (Celik, 2010).
+
+As a result of its technically open architecture (Jacobs and Walsh, 2004), the Web is
+decentralized and without technically defined or technically enforced boundaries. That
+architecture, essentially a common transaction protocol (HTTP) and naming scheme
+(URD, presents a flat content space permitting uniform access by humans and computa-
+tional agents through browsers and other web-based apps (e.g. Google’s web crawler)
+and unmediated hyperlinking. Open Web-based resources need not be free—they are
+routinely created for profit and some must be paid for. Yet the Open Web is “Open”
+because the technical and institutional arrangements of the system permit anyone to cre-
+ate visible, findable, and linkable content that is encoded using public standards.
+
+The historical development of the Web, its feature set, and its pervasive presence are
+characteristic of phenomena well-described by infrastructure studies. The Web creates
+interoperability among a huge variety of distributed, heterogeneous computers and con-
+tent resources. This interoperability is based on open standards that have evolved over
+25 years of Web history through negotiation and incremental improvement. The Web is
+effectively a global commons, largely beyond the control of any particular corporation or
+government. Finally, the Web is embedded in everyday life and practice. With entertain-
+ment, finance, health, education, and so much else now “on the Web,” Web access has
+become as crucial to modern social life as electricity, telephones, and sewers.
+
+Clearly, then, the Web is an infrastructure. Yet, the platform studies perspective also
+provides crucial insights. For example, platform studies emphasizes programmability as
+a defining characteristic. Advocates of the “programmable web” (Swartz, 2013) have
+described how open standards such as HTTP, URIs, and HTML comprise a flexible,
+extensible platform on which a myriad of applications can be built. To them, the openly
+addressable content of the web constitutes a huge database that can be exploited by such
+applications.! A commonplace example are news aggregators, which collect content
+from numerous sites using the Rich Site Summary (RSS) open standard. Because this
+programmability relies on Open Web principles, the Web-as-platform is “free, as in free
+speech” (Free Software Foundation, 2016), in the sense that its protocols permit anyone
+to publish, code, link to, or consume its resources, without constraints other than cost. In
+its early years, much of the web’s richness and vitality stemmed from the combination of
+its powers as a platform and its (then) relative independence from the economic logics of
+private ownership. In its first decade, the Open Web competed directly with private
+online dial-up services established in the 1980s, such as CompuServe, Prodigy, and
+Plantin et al. 303
+
+American Online. Like the Minitel system in France, these walled-garden platforms pro-
+vided many kinds of information and other services, but initially prevented their clients
+from accessing the Internet at all. Later, they offered limited, curated sets of web- or
+Internet-based resources while preventing access to the rest. Finally, after struggling to
+reinvent themselves in the 2000s, the surviving companies abandoned the walled-garden
+approach, which could no longer compete with the vast variety of content and services
+available on the Open Web.
+
+With this history in mind, we next observe that Facebook’s huge reach and its
+embeddedness in daily life lend it, too, some of the properties of infrastructure.
+These same properties also make Facebook a formidable force in a profit-motivated
+“platformization” (Helmond, 2015), which is beginning to eat away at the founda-
+tional promise of the Open Web. This platformization entails moving away from
+published URIs and open HTTP transactions in favor of closed apps that undertake
+hidden transactions with Facebook through a Facebook-controlled API.
+
+Like electrical sockets, APIs permit other programs to “plug in,” in order to exchange
+data or perform other functions; unlike electrical sockets, however, APIs create a two-
+way flow of data. In the language of infrastructure studies, an API is a gateway, permit-
+ting other systems to interact with Facebook to form a seamlessly interactive network.
+The e-commerce companies Salesforce and eBay released web APIs as early as 2000. By
+the mid-2000s, web APIs were proliferating rapidly (Flickr in 2004, Google Maps in
+2005, and Twitter and Facebook in 2006).
+
+APIs are not used exclusively in commercial platforms; they are an increasingly com-
+mon protocol in governmental open data initiatives. However, Langlois and Elmer
+(2013) show that the Facebook API represents a double-edged sword. On one hand, it
+increases the functionality of the Facebook platform by enabling an ecology of apps
+using the API to exchange data with Facebook. On the other hand, the API creates nota-
+ble restrictions and consequences for both app developers and users. Rather than con-
+necting them to the Open Web, the API locks both groups into a landscape defined and
+controlled by Facebook, A critic holds that Facebook’s turn away from the Open Web
+architecture of URIs and repeatable HTTP transactions in favor of “walled gardens” is
+“suffocating the Internet as we know it” (Holmes, 2013).
+
+Consider the RSS-based news aggregators mentioned above. Facebook has recently
+invested significant resources to host news sources, including high-profile ones such as
+the New York Times (Somaiya et al., 2015). If successful, this approach might eventually
+pull some of those sites’ content out of the Open Web ecology—where it was addressable
+for access and linking by an open URL and available to aggregators and other Web-based
+applications such as search engines—into the Facebook ecology controlled and recorded
+by the Facebook API, with potentially severe limits on access outside the boundaries of
+that ecology. Of note, some of these same news sources had previously attempted their
+own version of the walled-garden approach, placing their content behind paywalls. Their
+current negotiations with Facebook might be said to reflect their capitulation to the plat-
+form strategy—recognizing, in effect, that their stand-alone systems cannot compete
+with a dominant platform ecology.
+
+Through this self-defined and self-serving walled garden, Facebook is emerging as
+the social network monopoly in some markets. With an over 60% share of all social
+304 new media & society 20(1)
+
+media transactions worldwide, Facebook looks more and more like a de facto infrastruc-
+ture. Clearly, Facebook has long sought to embed itself in everyday life; everyone
+“should” have a Facebook presence, not just for communication but for organizing and
+extending one’s social relations and one’s online connectedness more generally. Facebook
+works to achieve ubiquity and taken-for-grantedness not only by creating expectations
+for users’ deliberate Facebook activity, such as friending people or posting photos, but
+also through the many actions users perform—but never intentionally or explicitly
+choose—by engaging the Facebook API. For example, when users authenticate to web-
+sites or applications using their Facebook identities, the API records these acts to their
+Facebook data profiles. Having access to this identity, many applications then silently
+contribute to the Facebook social graph via the API, extracting data from our shopping
+habits or information-seeking behavior and sending it along. Facebook then uses these
+data traces to tailor advertising and adjust newsfeed priorities, among other customiza-
+tions to our personalized walled gardens.
+
+Viewed simultaneously as an infrastructure and platform, Facebook presents a dis-
+turbing image. As an infrastructure, Facebook is progressively expanding and embed-
+ding itself in our daily existence, taking over more and more functions formerly
+provided by other, less restrictive means. The API, as a gateway, transforms Facebook
+from a centrally controlled system into something more like a network of indepen-
+dently developed, yet seamlessly interconnected systems and services. As a proprie-
+tary, largely opaque platform, Facebook filters our daily communicative acts through
+a profit-extracting sieve, deploying its intimate view of users’ activities and relation-
+ships for the benefit of advertisers and others, who in turn provide further data (via the
+API) for the Facebook social graph. As a result, its power to shape our communication
+behavior for its own ends increases.
+
+Knowledge as programmable object: Google
+
+What role does Google play in the Internet? Consider the company’s oldest and most
+basic service—search. At the time of this writing, Google accounts for over 65% of all
+web searches worldwide, trailed by Bing (13%), Baidu, and Yahoo (9% each).? This
+lopsided tally falls even more heavily in Google’s favor in the United States (85%) and
+Europe (92%).3 Search is among the Internet’s most vital technologies, rendering Open
+Web resources findable and accessible. In addition, the company provides Internet-based
+applications, including those most vital to the large majority of users: email, documents,
+spreadsheets, maps, YouTube videos, and cloud storage. These services have drawn
+Google’s users into ever deeper reliance on its services. In recent years Google has mar-
+keted these same services to businesses and universities (including one of our own), in
+many cases replacing legacy licensed software from multiple providers with the suite of
+Google Apps.
+
+From one perspective, then, Google looks like an infrastructure. Using Open Web
+protocols, it connects many independent systems into a robust, reliable network at the
+level of information content (at least from the user’s viewpoint). It is embedded in the
+background and widely accessible. If Google were to vanish tomorrow, large numbers of
+people would find their lives substantially disrupted, with their email archives and
+Plantin et al. 305
+
+addresses, documents, navigation, photos, and other critical records and services either
+entirely gone or requiring substantial effort to reconstruct. The company’s unprecedented
+dominance across Europe has led to a European Union antitrust investigation.4 For good
+or ill, Google’s near-monopoly on search creates a uniform, invisible, and robust infra-
+structure for accessing the vast store of knowledge and information on the Open Web.
+
+On the other hand, looking at Google through the lens of platform studies highlights
+programmability as the very basis of Google’s success. Like other Web 2.0 phenomena,
+Google’s systems are “native web application[s], never sold or packaged, but delivered
+as a service” (O’Reilly, 2005). The Web 2.0 model is based on connecting actors and
+content, permitting the construction of new web-based applications. A revealing example
+is the case of digital maps (Plantin, 2015). Digital cartography originally required spe-
+cialized geographic information systems (GIS) software and access to national govern-
+ment maps (such as Ordnance Survey in the United Kingdom or IGN in France) or maps
+from an aerial imagery company (such as Teleatlas or Navteq). Reuse of maps was hin-
+dered by high cost, complex technical architectures, and strict copyright. In 2005, Google
+released Google Maps and almost immediately provided an API. The API permitted third
+parties to add or overlay other data onto the Google base map, thus creating mapping
+“mashups.” In other words, Google transformed maps into programmable objects, with
+Google Maps as the platform. Similar examples are proliferated via the addition of APIs
+to most Google products. As with Facebook, the principal benefits to Google are the user
+activity data returned by the API and the ubiquity of its branded interface, while the
+myriad applications connected to the Google platform benefit from the ability to build on
+Google-provided data.
+
+Seen as a platform, Google presents issues similar to Facebook. Because it designs
+and controls Internet search, the company holds enormous power over the visibility of
+web-based resources. While Google (to its credit) goes to considerable lengths to prevent
+the gaming of its search algorithms—for instance, Google asserts that no one can pay to
+increase a web page’s rank, except via “sponsored links” clearly labeled as such—many
+strategies exist for raising that rank. Some companies’ entire business consists of helping
+others improve their position in Google search results. Given that other search platforms,
+such as Baidu, appear to permit even greater outside influence over their algorithms—in
+Baidu’s case, greatly restricting the prevalence of results from sources outside China—
+Google is perhaps the “lesser evil,” but its profit-driven private near-monopoly still
+remains a substantial concern (Jiang, 2014).
+
+Both infrastructure and platform perspectives also shed light on the Google Books
+project.> Starting in 2004, Google partnered with major research universities to digitize
+“every” book. Google presented the project as a 21st-century update of the public and
+national libraries. Seen in that light, the project looked like knowledge infrastructure—
+and in the abstract, it could be so, opening vast new possibilities for knowledge access
+and discovery, including for poor and under-resourced people and regions. Yet, Google
+Books was immediately and tightly bound to Google’s platform logic. For example,
+Google purchased reCAPTCHA (based on the CAPTCHA technology, that stands for
+Completely Automated Public Turing test to tell Computers and Humans Apart) in 2009
+partly to rely on crowdsourcing to decipher characters that could not be recognized
+through automated optical character recognition (OCR). It also released a Google Books
+306 new media & society 20(1)
+
+API (with its attendant two-way flow of data) and allowed researchers to build applica-
+tions on top of it.° Immediately entangled in lawsuits initiated by publishers, authors, and
+others, Google Books has not (yet) achieved its promise as a universal digital library;
+instead, other stakeholders correctly saw the project as Google’s attempt to platformize
+the library, a major knowledge infrastructure.
+
+As with Facebook, Google’s platform logic creates real benefits for both users and
+third-party developers. First, in an age of government downsizing, what other organiza-
+tion could fund or execute such a colossal effort? Second, the ability not only to access
+all that knowledge but also to build upon Google’s code avoids redundant effort and
+expense. Yet the fact remains that control of the platform puts Google in an unparalleled
+position of dominance, increasing its power to shape lives as well as knowledge.
+
+As this section has shown, infrastructure studies and platform studies both make
+important contributions to understanding our rapidly changing networked digital land-
+scape. Together, they help us to see the structures, the promises, and the perils of a world
+where (some) platforms become infrastructures, even as (many) infrastructures are being
+platformized. In such a world, it has become too easy to conflate the economic logics
+typical of platforms with the public interests and quasi-universal services formerly char-
+acteristic of many infrastructures. The question is not only who profits and controls, but
+who, and what, is cast aside along the way.
+
+Conclusion
+
+This article has examined two theoretical approaches relevant to the study of new media
+forms: infrastructure studies and platform studies. The constructs they address share cer-
+tain notable properties, including embeddedness, a degree of invisibility, extensibility,
+and broad coverage. While in this manner the two theories are “joined at the hip,” they
+are simultaneously “genetically different,” emerging from different disciplinary con-
+texts, traditionally focusing on different objects of investigation, and emphasizing differ-
+ent facets of their objects of study.
+
+Through case studies of Google, Facebook, and the Open Web, we have shown that
+rather than distinguishing two entirely separate objects, these approaches instead offer
+different lenses on phenomena fundamental to everyday life in contemporary societies.
+We argued that an accommodation of these two lenses—a kind of theoretical bifocal—
+helps us to historically and critically understand how these societies are being trans-
+formed. With the rise of neoliberal economics in the 1970s came a “splintering” of the
+“modern infrastructural ideal” of universal service delivered by monopoly providers
+(Graham and Marvin, 2001). Digital technologies greatly assisted in this process, often
+making possible lower cost, more dynamic, and more competitive alternatives to govern-
+mental or quasi-governmental monopoly infrastructures, in exchange for a transfer of
+wealth and responsibility to private enterprises. The result has been what we called a
+“platformization of infrastructures.” At the same time, the rise of platform strategies in
+the computer industry, and later in “Web 2.0” systems and services, made possible an
+“infrastructuralization of platforms.” Google, Facebook, and a handful of other corporate
+giants have learned to exploit the power of platforms—which hold undeniable benefits
+for both users and smaller, independent application developers—to gain footholds as the
+Plantin et al. 307
+
+modern-day equivalents of the railroad, telephone, and electric utility monopolies of the
+late 19th and the 20th centuries.
+
+How might scholars of these two approaches make use of our theoretical bifocal,
+platform-as-infrastructure, and vice versa? Certainly, they would retain the valuable
+historical perspective of infrastructure studies. But rather than presuppose the slow
+evolution and eventual stability plateau characteristic of physical, capital-intensive
+infrastructures, they might also take account of how rapidly “infrastructuralized plat-
+forms” have arisen in the digital age. Similarly, they might explore how information
+technology (IT) has helped to platformize even capital-intensive industries such as the
+transport of documents and goods; for example, FedEx and United Parcel Service
+(UPS) both grew mighty through relentless application of IT to logistics. In all cases,
+scholars of infrastructure could attend to the technological influences and policy alter-
+natives that tip the delicate balance between the public interest and corporate power. It
+would recover the goal of comparative analysis that is often missing from some
+accounts of single platforms. It would recognize that the “system builders” that domi-
+nated infrastructures of the past may be replaced by “ecosystem-builders” that lever-
+age programmability and interconnection to achieve control, rather than relying on
+direct provision and expansion.
+
+We hope to foster scholarship describing conflicts or subductions between infrastruc-
+tures and platforms across various sectors, possibly building on the table provided in this
+article. An example of such case study could be the impact of commercial platforms
+(such as Academia.edu or ResearchGate) on existing scholarly communication infra-
+structures. Another is the increasing reliance of “smart city” administration on private
+platforms to monitor public services and urban activity. This combined perspective, one
+might hope, would reassert the importance of widely available, universal, and relatively
+stable infrastructure as a foundation of social justice. While the private sector’s constant
+churn of exciting new technical developments has added so much to the quality of life,
+its total infiltration of basic needs also imposes potentially dire political, environmental,
+and ethical risks.
+
+Funding
+
+The author(s) disclosed receipt of the following financial support for the research, authorship, and/
+or publication of this article: This research is the result of the project “New Directions in the Study
+of Infrastructure” funded by the Mcubed program at the University of Michigan.
+
+Notes
+
+1. The World Wide Web Consortium itself refers to the Open Web as a “Platform.” http://www.
+w3.org/2010/Talks/0117-next-web-plh/nextweb.html
+
+2. — https://www.netmarketshare.com/search-engine-market-share.aspx?qprid=4&qpcustomd=0
+
+3. http://www.experian.com/marketing-services/online-trends-search-engine. html
+
+4. http://www.nytimes.com/2015/04/16/business/international/european-union-google-anti-
+trust-case.html?_r=0
+
+5. _ https://books.google.com/
+
+6. Examples of such applications may be found at https://developers.google.com/books/
+casestudies/
+308 new media & society 20(1)
+
+References
+
+Abbate J (1999) Inventing the Internet. Cambridge, MA: The MIT Press.
+Baldwin CY and Woodward CJ (2008) The architecture of platforms: a unified view. Available at:
+http://hbswk.hbs.edu/item/6025.html (accessed 2 June 2015).
+Benkler Y (2006) The Wealth of Networks: How Social Production Transforms Markets and
+Freedom. New Haven, CT: Yale University Press.
+Berners-Lee T and Fischetti M (1999) Weaving the Web: The Original Design and Ultimate
+Destiny of the World Wide Web by Its Inventor. San Francisco, CA: HarperCollins.
+Bijker W, Hughes TP and Pinch T (1987) The Social Construction of Technological Systems.
+Cambridge, MA: The MIT Press.
+Bogost I and Montfort N (2009) Platform studies: frequently questioned answers. Presented at
+the after media—embodiment and context digital arts and culture 2009, Arts Computation
+Engineering, University of California, Irvine, CA. Available at: http://escholarship.org/uc/
+item/01r0k9br (accessed 2 June 2015).
+Bowker GC and Star SL (1999) Sorting Things Out: Classification and Its Consequences.
+Cambridge, MA: The MIT Press.
+Busch L (2011) Standards: Recipes for Reality. Cambridge, MA: The MIT Press.
+Campbell-Kelly M, Aspray W, Ensmenger N, et al. (2014) Computer: A History of the Information
+Machine. New York: Basic Books.
+Castells M (2000) The Rise of the Network Society. Cambridge, MA: Blackwell Publishers.
+Cats-Baril W and Jelassi T (1994) The French videotex system Minitel: a successful implementa-
+tion of a national information technology infrastructure. M/S Quarterly 18(1): 1-20.
+Celik T (2010) What is the Open Web. Available at: http://tantek.com/2010/28 1/b1/what-is-the-
+open-web (accessed 2 June 2015).
+Edwards PN (1998) Y2K: millennial reflections on computers as infrastructure. History and
+Technology 15: 7-29.
+
+lwards PN (2002) Infrastructure and modernity: scales of force, time, and social organization in
+the history of sociotechnical systems. In: Misa TJ, Brey P and Feenberg A (eds) Modernity
+and Technology. Cambridge, MA: The MIT Press, pp. 185-225.
+
+lwards PN (2010) Some say the internet should never have happened. In: Neuman WR (ed.)
+Media, Technology and Society: Theories of Media Evolution. Ann Arbor, MI: University of
+Michigan Press, pp. 141-160.
+
+lwards PN, Bowker GC, Jackson SJ, et al. (2009) Introduction: an agenda for infrastructure
+studies. Journal of the Association for Information Systems 10(5): 364-374.
+
+lwards PN, Jackson SJ, Bowker GC, et al. (2007) Understanding infrastructure: dynamics, ten-
+sions, and design. Working paper, January. Available at: http://deepblue.lib.umich.edu/han-
+dle/2027.42/49353 (accessed 2 June 2015).
+
+Egyedi T (1996) Shaping standardization: a study of standards processes and standards policies
+in the field of telematic services. Unpublished Doctoral Thesis, Technische Universiteit Delft,
+Delft.
+
+Egyedi T (2001) Infrastructure flexibility created by standardized gateways: the cases of XML and
+the ISO container. Knowledge, Technology & Policy 14: 41-54.
+
+Egyedi T and Spirco J (2011) Standards in transitions: catalyzing infrastructure change. Futures
+43: 947-960.
+
+Fielding R, Gettys J, Mogul J, et al. (1999) Hypertext Transfer Protocol—HTTP/1.1 (RFC No.
+2616). The Internet Society. Available at: http://www. ietf.org/rfc/rfc2616.txt
+
+Free Software Foundation (2016) What Is Free Software? Free Software Foundation. Available at:
+http://www. gnu.org/philosophy/free-sw.en.html (accessed 14 January 2016).
+
+i
+
+[es]
+
+[es]
+i
+
+i
+
+[es]
+
+[es]
+
+Plantin et al. 309
+
+Gillespie T (2010) The politics of “platforms.” New Media & Society 12(3): 347-364.
+
+Graham S and Marvin S (2001) Splintering Urbanism: Networked Infrastructures, Technological
+Mobilities and the Urban Condition. London; New York: Routledge.
+
+Greenberger M (1964) The computers of tomorrow. Atlantic Monthly 213: 63-67.
+
+Helmond A (2015) The platformization of the web: making web data platform ready. Social Media
++ Society 1(2). DOL: 10.1177/20563051 15603080
+
+Holmes R (2013) From inside walled gardens, social networks are suffocating the internet as we
+know it. Fast Company, 9 August. Available at: http://www.fastcompany.com/3015418/
+from-inside-walled-gardens-social-networks-are-suffocating-the-internet-as-we-know-it
+(accessed 2 June 2015).
+
+Hughes TP (1983) Networks of Power: Electrification in Western Society, 1880-1930. Baltimore,
+MD: Johns Hopkins University Press.
+
+Hu T-H (2015) A Prehistory of the Cloud. Cambridge, MA: The MIT Press.
+
+Jacobs I and Walsh N (2004) Architecture of the World Wide Web. Available at: http://www.
+w3.org/TR/2004/PR-webarch-20041105/ (accessed 2 June 2015).
+
+Jenkins H (2006) Convergence Culture: Where Old and New Media Collide. New York: NYU
+Press.
+
+Jiang M (2014) Search concentration, bias, and parochialism: a comparative study of Google,
+Baidu, and Jike’s search results from China: search concentration, bias, and parochialism.
+Journal of Communication 64: 1088-1110.
+
+Kahin B and Abbate J (eds) (1995) Standards Policy for Information Infrastructure. Cambridge,
+MA: The MIT Press.
+
+Kahin B and Keller J (eds) (1997) Coordinating the Internet. Cambridge, MA: The MIT Press.
+
+Klose A (2015) The Container Principle: How a Box Changes the Way We Think. Cambridge,
+MA: The MIT Press.
+
+Langlois G and Elmer G (2013) The research politics of social media platforms. Culture Machine
+14. Available at: http://www.culturemachine.net/index.php/cm/article/view/505 (accessed 2
+June 2015).
+
+Larkin B (2008) Signal and Noise: Media, Infrastructure, and Urban Culture in Nigeria. Durham,
+NC: Duke University Press.
+
+Lee CP, Dourish P and Mark G (2006) The human infrastructure of cyberinfrastructure. In:
+Proceedings of the 2006 20th anniversary conference on computer supported cooperative
+work, Banff, AB, Canada, 4-8 November, pp. 483-492. New York: ACM.
+
+Mayntz R and Hughes TP (1988) The Development of Large Technical Systems. Boulder, CO:
+Westview Press.
+
+Meyrowitz J (1997) Shifting worlds of strangers: medium theory and changes in “them” versus
+“us.” Sociological Inquiry 67(1): 59-71.
+
+Montfort N and Bogost I (2009) Racing the Beam: The Atari Video Computer System. Cambridge,
+MA: The MIT Press.
+
+O’Reilly T (2005) What Is Web 2.0: Design Patterns and Business Models for the Next Generation
+of Software. O’Reilly Network. Available at: http://www.oreillynet.com/pub/a/oreilly/tim/
+news/2005/09/30/what-is-web-20.html (accessed 2 June 2015).
+
+Parks L and Starosielski N (2015) Signal Traffic: Critical Studies of Media Infrastructures.
+Champaign, IL: University of Illinois Press.
+
+Plantin JC (2015) The politics of mapping platforms: participatory radiation mapping after the
+Fukushima Daiichi disaster. Media, Culture & Society 37(6): 904-921.
+
+Ribes D and Bowker GC (2008) Organizing for multidisciplinary collaboration: the case of the
+geosciences network. In: Olson GM, Zimmerman A and Bos N (eds) Scientific Collaboration
+on the Internet. Cambridge, MA: The MIT Press, pp. 311-330.
+310 new media & society 20(1)
+
+Ribes D and Finholt TA (2009) The long now of technology infrastructure: articulating tensions in
+development. Journal of the Association for Information Systems 10: 375-398.
+
+Sandvig C (2013) The internet as infrastructure. In: Dutton WH (ed.) The Oxford Handbook of
+Internet Studies. Oxford: Oxford University Press, pp. 86-108.
+
+Somaiya R, Mike I and Vindu G (2015) Facebook may host news sites’ content. The New York
+Times, 23 March. Available at: http://www.nytimes.com/2015/03/24/business/media/face-
+book-may-host-news-sites-content.html (accessed 2 June 2015).
+
+Star SL and Ruhleder K (1996) Steps toward an ecology of infrastructure: design and access for
+large information spaces. /nformation Systems Research 7: 111-134.
+
+Starosielski N (2015) The Undersea Network. Durham, NC: Duke University Press.
+
+Swartz A (2013) Aaron Swartz’s A Programmable Web: An Unfinished Work. San Rafael, CA:
+Morgan & Claypool Publishers.
+
+van der Vleuten E (2004) Infrastructures and societal change: a view from the large technical sys-
+tems field. Technology Analysis & Strategic Management 16: 395-414.
+
+van Dijck J (2013) The Culture of Connectivity: A Critical History of Social Media. New York:
+Oxford University Press.
+
+Author biographies
+
+Jean-Christophe Plantin is an assistant professor at the Media and Communications Department,
+London School of Economics and Political Science. His research investigates the civic use of map-
+ping platforms, the collaborative challenges in big data science, and the political implications of
+data science.
+
+Carl Lagoze is an associate professor of Information at the School of Information, University of
+Michigan. His research interests concern knowledge infrastructure, digital libraries, eScience, and
+data curation.
+
+Paul N Edwards is a professor in the School of Information (SI) and the Department of History at
+the University of Michigan. His research explores the history, politics, and cultural aspects of
+computers, information infrastructures, and global climate science.
+
+Christian Sandvig is a professor at the University of Michigan where he teaches both Information
+and Communication Studies. He is a researcher specializing in studying the consequences of algo-
+rithmic systems that curate and organize culture.
